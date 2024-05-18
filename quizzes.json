@@ -1,0 +1,30 @@
+{
+    "0": {
+        "title": "Very Hard Quiz",
+        "questions": [
+            {
+                "q": "What comes after A?",
+                "a": [
+                    "z",
+                    "never gonna give you up",
+                    "x",
+                    "b"
+                ],
+                "coins": 10,
+                "answer": 3
+            },
+            {
+                "q": "What comes after B?",
+                "a": [
+                    "never gonna give you up",
+                    "c",
+                    "3",
+                    "4"
+                ],
+                "coins": 10,
+                "answer": 1
+            }
+        ],
+        "gems": 4
+    }
+}

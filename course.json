@@ -1,0 +1,46 @@
+{
+    "coverart": "TODO",
+    "title": "TODO",
+    "description": "TODO",
+    "tags": [
+        "example"
+    ],
+    "pages": {
+        "home": {
+            "html": "",
+            "title": "Welcome - Everskill HTML",
+            "welcome": true
+        },
+        "part1.1": {
+            "html": "",
+            "title": "1.1 - Everskill HTML"
+        },
+        "part1.2": {
+            "html": "",
+            "title": "1.2 - Everskill HTML"
+        },
+        "part2.1": {
+            "html": "",
+            "title": "2.1 - Everskill HTML"
+        },
+        "part2.2": {
+            "html": "",
+            "title": "2.2 - Everskill HTML"
+        },
+        "part3.1": {
+            "html": "",
+            "title": "3.1 - Everskill HTML"
+        },
+        "part3.2": {
+            "html": "",
+            "title": "3.2 - Everskill HTML"
+        },
+        "end": {
+            "html": "",
+            "title": "The End - Everskill HTML",
+            "goodbye": true
+        }
+    },
+    "quizzes": "https://raw.githubusercontent.com/N3RDIUM/everskill-course-template/main/quizzes.json",
+    "achievements": "https://raw.githubusercontent.com/N3RDIUM/everskill-course-template/main/achievements.json"
+}
