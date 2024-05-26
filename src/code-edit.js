@@ -3,4 +3,4 @@ document.getElementById("editor").addEventListener("keyup", function() {
     document.getElementById("result").contentWindow.document.open();
     document.getElementById("result").contentWindow.document.write(code);
     document.getElementById("result").contentWindow.document.close();
-  });
+});
